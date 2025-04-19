@@ -18,5 +18,5 @@ ewrerjiu
 hjkhkgasd
 uuio
 zhe ge yagn zi
-za hui shi ya fsdfjdsklf
+za hui shi ya fsdfjdsklf docker compose
 mao da ya CS zhe bu shi you ge 
